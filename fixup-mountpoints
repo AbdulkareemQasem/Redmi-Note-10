@@ -1554,7 +1554,7 @@ case "$DEVICE" in
         ;;
 
 
-    "mojito")
+    "mojito"|"sunny")
         sed -i \
             -e 's block/bootdevice/by-name/ALIGN_TO_128K_1 sdd1 ' \
             -e 's block/bootdevice/by-name/ALIGN_TO_128K_2 sdf1 ' \
