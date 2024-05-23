@@ -5,4 +5,5 @@ xiaomi_mojito.xml ----> for halium11 repo just copy it for path --> .repo/local_
 
 and this is postmarketOS directories 
 Remember change what you want to change
+
 good luck
